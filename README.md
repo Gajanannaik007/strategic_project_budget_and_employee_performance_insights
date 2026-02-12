@@ -72,3 +72,20 @@ strategic_project_budget_and_employee_performance_insights/
 └── README.md
 ```
 ---
+## 📊 Data Analysis (SQL)
+
+Performed the following analysis using SQL:
+
+- Budget vs Actual Cost Comparison
+- Employee Performance Ranking
+- Department-wise Productivity Analysis
+- Cost Overrun Identification
+- Aggregate Metrics using GROUP BY and JOIN
+
+Key SQL concepts used:
+- SELECT, WHERE
+- JOIN
+- GROUP BY
+- CASE Statements
+- Aggregate Functions
+---
