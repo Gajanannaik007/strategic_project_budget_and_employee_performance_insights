@@ -33,3 +33,20 @@ The goal is to:
 - Identify high-cost and low-performance areas
 - Support strategic decision-making with data-driven insights
 ---
+## 📂 Dataset
+
+The dataset includes:
+
+- Project Details (Project ID, Budget, Deadline)
+- Employee Information (Department, Role, Performance Score)
+- Budget Allocation & Actual Expenses
+- Productivity Metrics
+
+Data was imported into SQL Server for cleaning and transformation.
+---
+## 🛠 Tools & Technologies
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+---
