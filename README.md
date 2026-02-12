@@ -51,8 +51,7 @@ The dataset includes:
 ---
 ## 📁 Folder Structure
 
-The repository is organized as follows:
-
+```
 strategic_project_budget_and_employee_performance_insights/
 │
 ├── data/
@@ -71,4 +70,5 @@ strategic_project_budget_and_employee_performance_insights/
 │   └── dashboard_preview.png
 │
 └── README.md
+```
 ---
