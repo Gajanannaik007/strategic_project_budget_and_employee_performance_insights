@@ -133,6 +133,8 @@ This dashboard helps management to:
 - Identify high-investment departments
 - Evaluate employee-level financial impact
 - Support strategic budgeting decisions
+## 📸 Dashboard Preview
 
-  ![Dashboard](images/dashboard.png)
+![Project Dashboard](images/dashboard_image.png)
+
 ---
