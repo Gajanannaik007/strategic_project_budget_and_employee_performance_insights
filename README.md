@@ -25,10 +25,11 @@ The goal is to:
 - Evaluate employee performance metrics
 - Identify underperforming projects
 - Improve workforce efficiency
-
+---
 ## 🎯 Objectives
 
 - Analyze project budget vs actual spending
 - Measure employee productivity and contribution
 - Identify high-cost and low-performance areas
 - Support strategic decision-making with data-driven insights
+---
