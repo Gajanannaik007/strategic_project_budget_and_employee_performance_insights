@@ -1,4 +1,5 @@
 # strategic_project_budget_and_employee_performance_insights
+An analytical dashboard or repository focused on optimizing project budgets and evaluating workforce productivity to drive strategic business decisions.
 
 ## 🧾 Table of Contents
 
