@@ -140,12 +140,38 @@ This dashboard helps management to:
 ---
 ## 💡 Key Insights
 
-- Identified projects exceeding budget by more than 15%
-- Department A showed highest productivity efficiency
-- 20% of employees contributed to 60% of performance output
-- Certain projects had high cost but low productivity
+- Total Capital allocation stands at $369K, indicating strong investment in strategic initiatives.
 
-These insights can help management optimize cost allocation and workforce planning.
+- The Project Budget accounts for $205K, representing a significant portion of overall capital distribution.
+
+- Marketing department shows high budget utilization aligned with brand awareness initiatives.
+
+- Salary cost ($1.58M) exceeds direct project cost ($115K), highlighting workforce investment as a major expense component.
+
+- Human Resources department holds the highest project budget allocation compared to IT and Sales.
+
+- Certain projects demonstrate high budget allocation but comparatively lower performance output, indicating potential efficiency gaps.
+
+- Capital distribution suggests that a small number of projects consume a large percentage of the overall budget.
+
+- Department-level filtering reveals variation in spending patterns based on project status (Completed vs Ongoing).
+
+- Budget concentration in selected departments indicates strategic prioritization of business functions.
+
+- Employee-level analysis enables performance-based financial accountability.
+
+- Cost structure analysis indicates salary expenses form the largest share of total expenditure.
+
+- Budget variance across departments suggests opportunity for cost optimization.
+
+- Cross-department comparison reveals uneven distribution of capital resources.
+
+- Data-driven filtering supports scenario-based decision making.
+
+- The dashboard enables early detection of cost overruns and performance inefficiencies.
+
+
+
 ---
 ## 👤 Author & Contact
 
