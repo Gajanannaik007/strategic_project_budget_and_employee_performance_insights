@@ -152,7 +152,9 @@ These insights can help management optimize cost allocation and workforce planni
 **Gajanan M Naik**  
 Aspiring Data Analyst  
 
-📧 Email: naikgajanan238@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/gajanan-naik-4a8a08373/  
-🔗 GitHub: https://github.com/Gajanannaik007
+  - 📧 Email: [naikgajanan238@gmail.com](mailto:naikgajanan238@gmail.com)
+  - 💼 LinkedIn:[https://www.linkedin.com/in/gajanan-naik-4a8a08373/](https://www.linkedin.com/in/gajanan-naik-4a8a08373/)
+  - 🐙 GitHub: [https://github.com/Gajanannaik007](https://github.com/Gajanannaik007)
+
+
 ---
