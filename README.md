@@ -89,3 +89,48 @@ Key SQL concepts used:
 - CASE Statements
 - Aggregate Functions
 ---
+## 📈 Power BI Dashboard Overview
+
+The Project Overview Dashboard provides a comprehensive analysis of project budgets and employee performance across departments.
+
+This interactive dashboard allows users to filter data by Employee ID, Department Name, and Project Status to gain detailed insights.
+
+### 🔍 Key Dashboard Components
+
+🔹 Employee Profile Panel  
+Displays employee details including:
+- Employee ID  
+- Headshot  
+- First & Last Name  
+- Job Title  
+- Department  
+- Compensation  
+
+🔹 Capital & Budget Overview  
+- Total Capital: $369K  
+- Project Budget Allocation: $205K  
+- Visual donut charts highlight budget distribution and allocation percentages.
+
+🔹 Department Goals & Financial Summary  
+A detailed table showing:
+- Department goals  
+- Project cost  
+- Salary cost  
+- 2-Year Budget  
+- Capital allocation  
+
+🔹 Project Budgets by Department  
+Bar charts visualize:
+- Budget allocation across projects  
+- Department-wise spending comparison  
+- Highest budget utilization areas  
+
+### 🎯 Business Value
+
+This dashboard helps management to:
+- Monitor project budget allocation
+- Compare planned vs actual spending
+- Identify high-investment departments
+- Evaluate employee-level financial impact
+- Support strategic budgeting decisions
+---
