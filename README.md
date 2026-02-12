@@ -138,3 +138,21 @@ This dashboard helps management to:
 ![Project Dashboard](images/dashboard_image.png)
 
 ---
+## 💡 Key Insights
+
+- Identified projects exceeding budget by more than 15%
+- Department A showed highest productivity efficiency
+- 20% of employees contributed to 60% of performance output
+- Certain projects had high cost but low productivity
+
+These insights can help management optimize cost allocation and workforce planning.
+---
+## 👤 Author & Contact
+
+**Gajanan M Naik**  
+Aspiring Data Analyst  
+
+📧 Email: naikgajanan238@gmail.com 
+🔗 LinkedIn: your_link_here  
+🔗 GitHub: https://github.com/Gajanannaik007
+---
