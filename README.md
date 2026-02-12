@@ -41,8 +41,7 @@ The dataset includes:
 - Employee Information (Department, Role, Performance Score)
 - Budget Allocation & Actual Expenses
 - Productivity Metrics
-
-Data was imported into SQL Server for cleaning and transformation.
+- Data was imported into SQL Server for cleaning and transformation.
 ---
 ## 🛠 Tools & Technologies
 
