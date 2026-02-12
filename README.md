@@ -153,6 +153,6 @@ These insights can help management optimize cost allocation and workforce planni
 Aspiring Data Analyst  
 
 📧 Email: naikgajanan238@gmail.com 
-🔗 LinkedIn: your_link_here  
+🔗 LinkedIn: https://www.linkedin.com/in/gajanan-naik-4a8a08373/  
 🔗 GitHub: https://github.com/Gajanannaik007
 ---
