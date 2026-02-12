@@ -14,3 +14,21 @@ An analytical dashboard or repository focused on optimizing project budgets and 
 - 📚 [References](#references)
 - 👤 [Author & Contact](#author--contact)
 ---
+## 📌 Project Overview
+
+This project focuses on analyzing project budgets and employee performance to identify cost optimization opportunities and productivity trends.  
+
+Using SQL for data analysis and Power BI for visualization, this dashboard provides strategic insights to support better business decision-making.
+
+The goal is to:
+- Monitor budget allocation and spending
+- Evaluate employee performance metrics
+- Identify underperforming projects
+- Improve workforce efficiency
+
+## 🎯 Objectives
+
+- Analyze project budget vs actual spending
+- Measure employee productivity and contribution
+- Identify high-cost and low-performance areas
+- Support strategic decision-making with data-driven insights
